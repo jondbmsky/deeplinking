@@ -1,13 +1,6 @@
 {
-  "sections": [
-    {
-      "position": 0,
-      "tiles": []
-    },
-    {
-      "title": "Entertainment",
-      "position": 1,
-      "tiles": [
+  "expires":1594346640,
+  "sections":[
         {
           "title": "Jurassic Park",
           "image_ratio": "16by9",
