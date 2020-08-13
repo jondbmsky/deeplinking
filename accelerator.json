@@ -1,0 +1,69 @@
+{
+   "expires":1594346640,
+   "sections":[
+      {
+         "title":"rel65 ents",
+         "position":1,
+         "tiles":[
+            {
+               "title":"Kidnapped at the Club",
+               "image_ratio":"16by9",
+               "image_url":"https://imageservice.disco.stable-int.peacocktv.com/uuid/b1c9838a-41eb-3c52-a6b1-bec784db5ed5/LAND_16_9-SERIES/?composite=left,top&language=eng&territory=US|568&composite=left[9],bottom[9]|https://imageservice.disco.stable-int.peacocktv.com/logo/skychb_nologo_darknow/LOGO_NON_PADDED/300/75?proposition=NBCUOTT&territory=US",
+               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%229107670798761936112%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22SERIES%22%7D",
+               "is_playable":false
+            },
+            {
+               "title":"Beethoven",
+               "image_ratio":"16by9",
+               "image_url":"https://imageservice.disco.stable-int.peacocktv.com/uuid/9a60dcfd-8032-3409-9943-5a4f2c3fcdff/LAND_16_9-SERIES/?composite=left,top&language=eng&territory=US|568&composite=left[9],bottom[9]|https://imageservice.disco.stable-int.peacocktv.com/logo/skychb_nologo_darknow/LOGO_NON_PADDED/300/75?proposition=NBCUOTT&territory=US",
+               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%225497290065070707112%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22SERIES%22%7D",
+               "is_playable":false
+            },
+            {
+               "title":"Noddy's Toyland Adventures",
+               "image_ratio":"16by9",
+               "image_url":"https://imageservice.disco.stable-int.peacocktv.com/uuid/da2aecaf-bd80-32f9-a263-a95d63aefd60/LAND_16_9-SERIES/?composite=left,top&language=eng&territory=US|568&composite=left[9],bottom[9]|https://imageservice.disco.stable-int.peacocktv.com/logo/skychb_nologo_darknow/LOGO_NON_PADDED/300/75?proposition=NBCUOTT&territory=US",
+               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%224688751181101463112%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22SERIES%22%7D",
+               "is_playable":false
+            },
+            {
+               "title":"The Mummy: Quest for the Lost Scrolls",
+               "image_ratio":"16by9",
+               "image_url":"https://imageservice.disco.stable-int.peacocktv.com/uuid/7554495e-3ed5-3546-a809-2bfc28c67ff8/LAND_16_9/?composite=left,top&language=eng&territory=US|568&composite=left[9],bottom[9]|https://imageservice.disco.stable-int.peacocktv.com/logo/skychb_nologo_darknow/LOGO_NON_PADDED/300/75?proposition=NBCUOTT&territory=US",
+               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%2273d52ba6-3369-3b70-8f5b-63ba180274c8%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22PROGRAMME%22%7D",
+               "is_playable":false
+            }
+         ]
+      },
+      {
+         "title":"Samsung movies",
+         "position":0,
+         "tiles":[
+            {
+               "image_ratio":"2by3",
+               "image_url":"/",
+               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%22ae3c5054-f1c3-4c8d-9c8c-aa96dac12429%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22PROGRAMME%22%7D",
+               "is_playable":false
+            },
+            {
+               "image_ratio":"2by3",
+               "image_url":"https://imageservice.disco.stable-int.peacocktv.com/uuid/4e1d17d7-ddbd-3eff-a886-65bca57f0d7c/BOXART/?language=eng&territory=US",
+               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%2218a0441a-87d5-30ab-bb90-81fbe985a7a1%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22PROGRAMME%22%7D",
+               "is_playable":false
+            },
+            {
+               "image_ratio":"2by3",
+               "image_url":"/",
+               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%22781aaf20-8b48-48de-a1eb-d892bfa2abad%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22PROGRAMME%22%7D",
+               "is_playable":false
+            },
+            {
+               "image_ratio":"2by3",
+               "image_url":"https://imageservice.disco.stable-int.peacocktv.com/uuid/9186aa02-05d6-37d6-b4e8-595bcca47ecb/BOXART/?language=eng&territory=US",
+               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%22866bcaf2-28b6-3ae5-962d-697c56db367e%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22PROGRAMME%22%7D",
+               "is_playable":false
+            }
+         ]
+      }
+   ]
+}
