@@ -1,5 +1,5 @@
 {
-   "expires":1594346640,
+   "expires":1594326641,
    "sections":[
       {
          "title":"rel65 ents",
@@ -10,50 +10,6 @@
                "image_ratio":"16by9",
                "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",               ,
                "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%229107670798761936112%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22SERIES%22%7D",
-               "is_playable":false
-            },
-            {
-               "title":"Beethoven",
-               "image_ratio":"16by9",
-               "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",               ,
-               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%225497290065070707112%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22SERIES%22%7D",
-               "is_playable":false
-            },
-            {
-               "title":"Noddy's Toyland Adventures",
-               "image_ratio":"16by9",
-               "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
-               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%224688751181101463112%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22SERIES%22%7D",
-               "is_playable":false
-            },
-            {
-               "title":"The Mummy: Quest for the Lost Scrolls",
-               "image_ratio":"16by9",
-               "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
-               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%2273d52ba6-3369-3b70-8f5b-63ba180274c8%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22PROGRAMME%22%7D",
-               "is_playable":false
-            }
-         ]
-      },
-      {
-         "title":"Samsung movies",
-         "position":0,
-         "tiles":[
-            {
-               "image_ratio":"2by3",
-               "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
-               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%2218a0441a-87d5-30ab-bb90-81fbe985a7a1%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22PROGRAMME%22%7D",
-               "is_playable":false
-            },
-            {
-               "image_ratio":"2by3",
-               "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
-               "is_playable":false
-            },
-            {
-               "image_ratio":"2by3",
-               "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
-               "action_data":"https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%22866bcaf2-28b6-3ae5-962d-697c56db367e%22%2C%22action%22%3A%22PDP%22%2C%22type%22%3A%22PROGRAMME%22%7D",
                "is_playable":false
             }
          ]
