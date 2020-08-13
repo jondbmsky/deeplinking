@@ -1,12 +1,12 @@
 {
-  "expires": 1597762533,
-  "sections": [
+  "expires":1597762532,
+  "sections":[
     {
       "title": "Entertainment",
       "position": 1,
       "tiles": [
         {
-          "title": "Jurassic Parko1a",
+          "title": "Jurassic Parko1A",
           "image_ratio": "16by9",
           "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
           "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%223991271c-4aa9-303e-ac93-3de6656aa9ce%22%2C%22action%22%3A%22PDP%22%7D",
@@ -62,7 +62,7 @@
           "is_playable": false
         },
         {
-          "title": "King of Queens ep 2 (next Free)",
+          "title": "King of Queens ep 2  (next Free)",
           "image_ratio": "16by9",
           "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
           "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%227e2f38c9-a415-330c-91e7-6f3bba974850%22%2C%22action%22%3A%22PLAY%22%7D",
@@ -110,6 +110,76 @@
           "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22providerSeriesId%22%3A%2262408637555cvb8157112%22%2C%22action%22%3A%22PLAY%22%7D",
           "is_playable": false
         },
+        {
+          "title": "invalid action - Playback",
+          "image_ratio": "16by9",
+          "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
+          "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%229f152a15-a4b5-3722-ba87-e71fba1b6d86%22%2C%22action%22%3A%22INVALIDACTION%22%7D",
+          "is_playable": false
+        },
+        {
+          "title": "Invalid action - PDP",
+          "image_ratio": "16by9",
+          "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
+          "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%223991271c-4aa9-303e-ac93-3de6656aa9ce%22%2C%22action%22%3A%22INVALIDACTION%22%7D",
+          "is_playable": false
+        },
+        {
+          "title": "Invalid deeplink url format",
+          "image_ratio": "16by9",
+          "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
+          "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22providerSeriiojioesId%22%3A%226240863758157112%22%2C%22actibrokeon%22%3A%22PSSDP%22%7D",
+          "is_playable": false
+        },
+        {
+          "title": "Chicago Fire s08e01",
+          "image_ratio": "16by9",
+          "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
+          "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%2288fc6f29-2d8f-3636-a5b0-f6870120f129%22%2C%22action%22%3A%22PLAY%22%7D",
+          "is_playable": false
+        },
+        {
+          "title": "Suits s06e05",
+          "image_ratio": "16by9",
+          "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
+          "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%220f8ec47f-dd45-340c-b821-0ebf81132858%22%2C%22action%22%3A%22PLAY%22%7D",
+          "is_playable": false
+        },
+        {
+          "title": "Suits s06e06",
+          "image_ratio": "16by9",
+          "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
+          "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%226b6a5d1e-4af4-3f09-bb40-d870488e59f5%22%2C%22action%22%3A%22PLAY%22%7D",
+          "is_playable": false
+        },
+        {
+          "title": "Suits PDP",
+          "image_ratio": "16by9",
+          "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
+          "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22providerSeriesId%22%3A%228003089882869075112%22%2C%22action%22%3A%22PDP%22%7D",
+          "is_playable": false
+        },
+        {
+          "title": "Battle Los Angeles PDP",
+          "image_ratio": "16by9",
+          "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
+          "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%2289b6b5c2-47fd-30e7-a425-999e4b4465b5%22%2C%22action%22%3A%22PDP%22%7D",
+          "is_playable": false
+        },
+        {
+          "title": "Battle Los Angeles Playout",
+          "image_ratio": "16by9",
+          "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
+          "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2F%3FdeeplinkData%3D%7B%22pvid%22%3A%2289b6b5c2-47fd-30e7-a425-999e4b4465b5%22%2C%22action%22%3A%22PLAY%22%7D",
+          "is_playable": false
+        },
+        {
+          "title": "Shrek with Samsung html page",
+          "image_ratio": "16by9",
+          "image_url": "http://uk.imageservice.sky.com/contentid/bbe52558e9fdf410VgnVCM1000000b43150a____/LAND_16_9-SERIES/568?composite=left,top|http://client.nowtv.com/image/gradientoverlay/568/320/png&composite=left[9],bottom[9]|http://images.metadata.sky.com/pd-logo/skychb_skyonetypeb_darknow/220/20",
+          "action_data": "https%3A%2F%2Ftv.clients.peacocktv.com%2Fsamsung.html%3FdeeplinkData%3D%257B%2520%2522pvid%2522%253A%2520%2522b6303073-41bf-3644-8e71-0e8278c33678%2522%252C%2520%2522action%2522%253A%2522PDP%2522%2520%257D",
+          "is_playable": false
+        }
       ]
     }
   ]
